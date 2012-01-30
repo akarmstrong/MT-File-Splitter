@@ -65,7 +65,7 @@ end
 
 unless ARGV.length == 2
   puts "Dude, not the right number of arguments."
-  puts "Usage: ruby exportfile.txt export-split-directory.txt\n"
+  puts "Usage: ruby filesplitter.rb export_file.txt export_split_directory\n"
   exit
 end
 

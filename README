@@ -1,0 +1,9 @@
+Usage: ruby filesplitter.rb export_file.txt export_split_directory
+
+
+export_file.txt
+Simple text file that contains URLs that are separated by a newline
+
+export_split_directory
+Location in which the script will create the files
+
